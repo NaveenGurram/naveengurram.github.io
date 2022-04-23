@@ -20,7 +20,7 @@ description: >-
 linkedin_username: NaveenGurram  
 github_username: NaveenGurram
 twitter_username: NaveenGurram
-minimal_mistakes_skin: Air
+minimal_mistakes_skin: "Air"
 search: true
 
 # Build settings
