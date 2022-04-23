@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blogging is fun 
-email:
+title: Naveen Gurram
+email: gurram.naveen@gmail.com
 description: >-
-  My name is Naveen Gurram. I was born in India but I’ve been living in USA since 2007. I'm a software engineer primarily working with Java. You can read more about me in the About me section 
-twitter_username: NaveenGurram
+  My name is Naveen Gurram. I was born in India but I've been living in USA since 2007. I'm a software engineer primarily working with Java. You can read more about me in the About me section
+linkedin_username: NaveenGurram  
 github_username: NaveenGurram
-linkedin_username: NaveenGurram
+twitter_username: NaveenGurram
 minimal_mistakes_skin: Air
 search: true
 
@@ -31,6 +31,8 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: US/Eastern
+
+github: [metadata]
 
 include:
   - _pages
@@ -59,7 +61,7 @@ plugins:
 author:
   name   : "Naveen Gurram"
   avatar : "/assets/images/avataars.png"
-  bio    : "Software Developer and Architect."
+  bio    : "My name is Naveen Gurram. I was born in India but I've been living in USA since 2007. I'm a software engineer primarily working with Java. You can read more about me in the About me section"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -73,15 +75,15 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/NaveenGurram"   
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/NaveenGurram"       
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/NaveenGurram"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/NaveenGurram"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/NaveenGurram"
 defaults:
   # _posts
   - scope:
