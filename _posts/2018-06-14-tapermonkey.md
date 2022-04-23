@@ -2,7 +2,7 @@
 title: "How Tapermonkey helped me replace safari extensions"
 last_modified_at: 2018-06-14T16:20:02-05:00
 categories:
-  - Blog
+  - Tech
 tags:
   - Tapermonkey
   - Safari

@@ -2,7 +2,7 @@
 title: "Externalize static analysis configs in Gradle"
 last_modified_at: 2018-11-28
 categories:
-  - Blog
+  - Tech
 tags:
   - Gradle
   - Java

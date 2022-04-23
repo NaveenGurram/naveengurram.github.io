@@ -2,7 +2,7 @@
 title: "Java SSL within AWS Lambda"
 last_modified_at: 2018-07-24
 categories:
-  - Blog
+  - Tech
 tags:
   - AWS
   - Lambda

@@ -2,7 +2,7 @@
 title: "Parallel Threads with Spring Context"
 last_modified_at: 2020-04-29
 categories:
-  - Blog
+  - Tech
 tags:
   - Spring
   - Java

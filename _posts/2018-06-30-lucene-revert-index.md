@@ -2,7 +2,7 @@
 title: "Reverse Lucene Index"
 last_modified_at: 2018-06-30
 categories:
-  - Blog
+  - Tech
 tags:
   - Lucene
   - Java
