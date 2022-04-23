@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Naveen Gurram"
-  avatar : "/assets/images/avataars.png"
+  avatar : "/assets/images/naveen.png"
   bio    : "My name is Naveen Gurram. I was born in India but I've been living in USA since 2007. I'm a software engineer primarily working with Java. You can read more about me in the About me section"
   links:
     - label: "Twitter"
