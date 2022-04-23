@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Naveen Gurram
+title: It'a all about tech
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+description: >-
+  I'm Naveen Gurram Personal website Software developer and designer
+twitter_username: NaveenGurram
 github_username: NaveenGurram
 minimal_mistakes_skin: Air
 search: true
@@ -59,7 +57,7 @@ plugins:
 
 author:
   name   : "Naveen Gurram"
-  avatar : "/assets/images/actual.jpg"
+  avatar : "/assets/images/avataars.png"
   bio    : "Software Developer and Architect."
   links:
     - label: "Twitter"
