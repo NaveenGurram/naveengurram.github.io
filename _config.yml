@@ -19,6 +19,7 @@ description: >-
   I'm Naveen Gurram Personal website Software developer and designer
 twitter_username: NaveenGurram
 github_username: NaveenGurram
+linkedin_username: NaveenGurram
 minimal_mistakes_skin: Air
 search: true
 
@@ -66,6 +67,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NaveenGurram"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/NaveenGurram"      
 
 footer:
   links:
@@ -75,7 +79,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NaveenGurram"
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/NaveenGurram"
 defaults:
   # _posts
   - scope:
