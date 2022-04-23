@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: It'a all about tech
+title: Blogging is fun 
 email:
 description: >-
-  I'm Naveen Gurram Personal website Software developer and designer
+  My name is Naveen Gurram. I was born in India but I’ve been living in USA since 2007. I'm a software engineer primarily working with Java. You can read more about me in the About me section 
 twitter_username: NaveenGurram
 github_username: NaveenGurram
 linkedin_username: NaveenGurram
