@@ -16,7 +16,7 @@
 title: Naveen Gurram
 email: gurram.naveen@gmail.com
 description: >-
-  My name is Naveen Gurram. I was born in India but I've been living in USA since 2007. I'm a software engineer primarily working with Java. You can read more about me in the About me section
+  Hi there, I'm Naveen Gurram. I was born in India but I've been living in USA since 2007. I'm a software engineer primarily working with Java. You can read more about me in the About me section
 linkedin_username: NaveenGurram  
 github_username: NaveenGurram
 twitter_username: NaveenkGurram
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Naveen Gurram"
   avatar : "/assets/images/naveen.png"
-  bio    : "My name is Naveen Gurram. I was born in India but I've been living in USA since 2007. I'm a software engineer primarily working with Java. You can read more about me in the About me section"
+  bio    : "Hi there I'm Naveen Gurram. I was born in India but I've been living in USA since 2007. I'm a software engineer primarily working with Java. You can read more about me in the About me section"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
