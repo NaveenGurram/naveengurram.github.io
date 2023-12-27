@@ -4,7 +4,7 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Resume"
-    url: /assets/files/NaveenGurram.pdf
+    url: /assets/files/resume.html
   - title: "Categories"
     url: /categories/
   - title: "Tags"

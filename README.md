@@ -6,7 +6,7 @@ I'm a Software Developer and architect. I'm developing code from last 15 years p
 
 Currently working as Lead Developer in financial sector.
 
-Find out more about at me [Resume](/assets/files/NaveenGurram.pdf)
+Find out more about at me [Resume](/assets/files/resume.html)
 #### Open Source Projects ( I started )
 ##### [IsItUp Chrome Plugin](https://chrome.google.com/webstore/detail/is-it-up/hpeelccagnmlaklolopihojkmoabmidb?hl=en) 
 No Infrastructure service dashboard.
