@@ -1,5 +1,5 @@
 ---
-title: "Recruiting Software"
+title: "Serverless mimicking AWS Api Gateway"
 last_modified_at: 2024-01-17
 categories:
   - Serverless
@@ -11,7 +11,7 @@ tags:
 ---
 # Serverless mimicking AWS Api Gateway for multi query param strings
 
-![](/assets/images/serverless-framework-logo.svg)
+![](/assets/images/serverless.png)
 
 We use [serverless](https://www.serverless.com/) to package our node.js app written in typescript and even though their documentation is extensive, some areas they could have done better.
 
