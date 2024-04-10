@@ -1,5 +1,5 @@
 ---
-title: "Reading from Kafka in Bean streaming job with confluent schema registry"
+title: "Reading from Kafka in Beam streaming job with confluent schema registry"
 last_modified_at: 2024-04-09
 categories:
   - Beam
@@ -10,9 +10,8 @@ tags:
   - Apache Beam
   - Streaming
   - GCP
-  - 
 ---
-# Reading from Kafka in Bean streaming job with confluent schema registry
+# Reading from Kafka in Beam streaming job with confluent schema registry
 
 We are using [Beam](https://beam.apache.org/) to do a streaming job of reading data from the topic and putting that in BigData tables for processing.  
 
