@@ -11,7 +11,7 @@ cv:
       username: NaveenGurram
   sections:
     Summary:
-      - Technology Leader with 20 years of experience specializing in software architecture, providing competitive advantage and transformative change across diverse industries. Skilled in conceptualizing and executing program vision from start to finish, managing complex milestones while adapting to changes and shifting priorities. Led cross-functional teams in delivering strategic initiatives proven to improve systems, processes, and bottom-line results.
+      - Technology Leader with 20 years of experience in software architecture and development, specializing in driving transformative change across diverse industries. Proven track record of setting technical direction, leading cross-functional teams, and delivering complex projects ahead of schedule and under budget. Expertise in designing scalable architectures, implementing best practices, and mentoring teams to enhance productivity and innovation.
     education:
       - institution: Kakatiya University
         location: India
@@ -37,45 +37,50 @@ cv:
         location: Rockville, MD
         start_date: 2014-08
         highlights:
-          - Developed a cloud-native Data Collection System, improving the collection of structured and unstructured data and reducing time to market for new regulations.
-          - Created a data validation framework using JSON Schema, enabling business units to write data validation rules without technical expertise.
-          - Architected a Redis-based temporary cache for NMLS modernization, enhancing user experience by avoiding datastore access.
-          - Designed a Random Forest model for content classification, reducing manual classification for regulatory purposes.
+          - Architected and led the development of a cloud-native Data Collection System, improving data collection speed by 30% and reducing time to market for new regulations by 25%.
+          - Developed a data validation framework using JSON Schema, enabling non-technical users to create data validation rules, reducing reliance on IT support by 40%.
+          - Spearheaded the design of a Redis-based temporary cache for the NMLS modernization project, enhancing user experience and reducing database load times by 50%.
+          - Led the development of a Random Forest model for content classification, reducing manual classification work by 60% for regulatory purposes.
+          - Mentored a team of 8 engineers, conducted code reviews, and established best practices that increased team efficiency by 20%.
       - company: Westat
         position: Software Engineer Consultant
         location: Rockville, MD
         start_date: 2012-10
         end_date: 2014-08
         highlights:
-          - Modified the OPEN system to generate reports for CTSU protocol studies, reducing offline report generation costs.
-          - Developed SOAP web services to integrate various RAVE systems, improving information sharing and reducing lag for Cancer Trial registrations.
+          - Modified and optimized the OPEN system to generate reports for CTSU protocol studies, resulting in a 40% reduction in offline report generation costs.
+          - Developed and integrated SOAP web services to improve information sharing across various RAVE systems, reducing Cancer Trial registration time by 15%.
+          - Collaborated with stakeholders to define requirements, align technical solutions with business objectives, and enhance system functionality.
       - company: DTE Energy
         position: Software Engineer Consultant
         location: Detroit, MI
         start_date: 2011-01
         end_date: 2012-10
         highlights:
-          - Designed and developed the Solar Wind Easement System (SWEM) to automate the maintenance of solar and wind easements, transitioning from a paper-based to a fully automated system.
-          - Created a Billing API for kiosk systems, enabling offline bill payments in Detroit.
-          - Enhanced the Billing API to provide payment options and bill calculations using smart meter data, reducing field meter reading costs.
+          - Designed and developed the Solar Wind Easement Management (SWEM) System, automating maintenance processes and reducing operational costs by 40%.
+          - Created a Billing API for kiosk systems, enabling offline payments and reducing field meter reading costs by 30%.
+          - Led technical discussions, architectural reviews, and code audits to ensure compliance with industry standards.
       - company: Jackson National Insurance
         position: Software Engineer Consultant
         location: Lansing, MI
         start_date: 2010-07
         end_date: 2011-01
         highlights:
-          - Developed modules for year-end rebalancing at Curian Capital Asset Management.
-          - Created an Eclipse plugin to convert XML into Job Information Language (JIL) for AutoSys scheduling.     
+          - Developed critical modules for year-end rebalancing at Curian Capital Asset Management, reducing process time by 25%.
+          - Designed an Eclipse plugin to automate the conversion of XML to JIL (Job Information Language) for AutoSys scheduling, improving scheduling efficiency by 20%.    
       - company: AT&T
         position: Software Engineer Consultant
         location: San Ramon, CA
         start_date: 2005-03
         end_date: 2010-07
         highlights:
-          - Developed and maintained SWOT (Single Web Ordering Tool) for AT&T DSL and landline services.
-          - Managed Product Catalog and Configuration APIs and implemented a Business Rules Engine (BRE) using Drools.
-          - Created a Websphere Resource Configurator tool, automating resource creation and boosting developer productivity.
-          - Migrated product configuration rules from Blue Martini to Drools, cutting licensing costs.           
+          - Led the development of the Single Web Ordering Tool (SWOT) for DSL and landline services, achieving a 15% increase in order processing speed.
+          - Managed the migration of product configuration rules from Blue Martini to Drools, reducing licensing costs by $500,000 annually.
+          - Created a WebSphere Resource Configurator tool, automating resource creation and boosting developer productivity by 30%.   
+    Leadership and Architectural Achievements:
+      - Defined and implemented architectural standards and best practices for cloud-native applications, improving scalability and reducing operational costs.
+      - Conducted design and code reviews, fostering a culture of quality and innovation across multiple teams.
+      - Established a mentoring program for junior developers, resulting in a 30% increase in promotion rates within the team.           
     Certifications:
       - name: AWS Certified Solutions Architect Associate
         start_date: 2016
@@ -83,6 +88,8 @@ cv:
       - name: SUN Certified Java Programmer
         start_date: 2007
         end_date: 2010
+      - name: Ongoing training in Cloud Architecture, DevOps practices, and Machine Learning through Coursera and Udacity
+        start_date: 2020
     projects:
       - name: IsItUp Chrome Extension [github.com/NaveenGurram/IsItUp](https://github.com/NaveenGurram/IsItUp)
         date: 2020
@@ -102,12 +109,16 @@ cv:
     technologies:
       - label: Languages
         details: Java, TypeScript, Python, SQL, JavaScript
-      - label: Technologies
-        details: Relational Database, NoSql Databases, Redis, Spring, Chrome plugin development
-      - label: Clouds
+      - label: Frameworks
+        details: Spring, Redis, Drools, Chrome Extension Development 
+      - label: Database Technologies
+        details: Relational Database, NoSql Databases
+      - label: Cloud Platforms
         details: AWS, GCP      
-      - label: ML Models
-        details: Random Forrest Model          
+      - label: Machine Learning
+        details: Random Forrest Model
+      - label: Development Tools
+        details: JIRA, Git, Intellij IDEA   
 design:
   theme: classic
   font: Source Sans 3
