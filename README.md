@@ -1,8 +1,6 @@
 # naveengurram.github.io
 
-Hi I'm **Naveen Gurram**
-
-I'm a Software Developer and architect. I'm developing code from last 15 years primarily using Java. I worked with different set of programming languages and in different industry domains. 
+Hi there, I'm **Naveen Gurram**. I'm a software engineer primarily work on backend. You can read more about me in the About me section
 
 Currently working as Lead Developer in financial sector.
 
