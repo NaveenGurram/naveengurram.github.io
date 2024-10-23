@@ -12,7 +12,7 @@ Some of my interests over the years
 - Developed [Eclipse plugin](https://github.com/NaveenGurram/JilCreator) to create a Job Information Language script from a xml file while working at Jackson National Life Insurance (2010)
 - Developed Chrome plugins (2018) using JavaScript and JQuery
 
-Find out my experience and education qualifications in my [Resume](/assets/files/resume.html)
+Find out my experience and education qualifications in my [Resume](/assets/files/NaveenGurram.pdf)
 #### Open Source Projects ( I started )
 ##### [IsItUp Chrome Plugin](https://chrome.google.com/webstore/detail/is-it-up/hpeelccagnmlaklolopihojkmoabmidb?hl=en) 
 No Infrastructure service dashboard.
