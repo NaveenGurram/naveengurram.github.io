@@ -1,6 +1,7 @@
 ---
 title: "Download file in GWT"
 last_modified_at: 2018-09-26
+classes: wide
 categories:
   - Tech
 tags:

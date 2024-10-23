@@ -1,6 +1,7 @@
 ---
 title: "Reverse Lucene Index"
 last_modified_at: 2018-06-30
+classes: wide
 categories:
   - Tech
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "PMD Unused private method"
 last_modified_at: 2018-11-02
+classes: wide
 categories:
   - Tech
 tags:

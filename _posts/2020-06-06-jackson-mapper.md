@@ -1,6 +1,7 @@
 ---
 title: "Jackson Object Mapper"
 last_modified_at: 2020-06-06
+classes: wide
 categories:
   - Tech
 tags:

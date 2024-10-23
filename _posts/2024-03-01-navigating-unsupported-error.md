@@ -1,6 +1,7 @@
 ---
 title: "Navigating the Node.js \"Unsupported\" error with PFX Certificates in HTTPAgent"
 last_modified_at: 2024-03-01
+classes: wide
 categories:
   - Node.js
 tags:

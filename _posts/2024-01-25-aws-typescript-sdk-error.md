@@ -1,6 +1,7 @@
 ---
 title: "AWS Sdk logging error"
 last_modified_at: 2024-01-25
+classes: wide
 categories:
   - AWS
 tags:

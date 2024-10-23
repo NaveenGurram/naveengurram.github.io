@@ -1,6 +1,7 @@
 ---
 title: "Parallel Threads with Spring Context"
 last_modified_at: 2020-04-29
+classes: wide
 categories:
   - Tech
 tags:

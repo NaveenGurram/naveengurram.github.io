@@ -1,6 +1,7 @@
 ---
 title: "Recruiting Software"
 last_modified_at: 2024-01-08
+classes: wide
 categories:
   - Misc
 tags:

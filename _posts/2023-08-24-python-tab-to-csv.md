@@ -1,6 +1,7 @@
 ---
 title: "Python file writing mishaps"
 last_modified_at: 2023-08-24
+classes: wide
 categories:
   - Programming
 tags:

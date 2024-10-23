@@ -1,6 +1,7 @@
 ---
 title: "Serverless mimicking AWS Api Gateway"
 last_modified_at: 2024-01-17
+classes: wide
 categories:
   - Serverless
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Creating Compound Unique Index in AWS DocumentDB"
 last_modified_at: 2020-05-14
+classes: wide
 categories:
   - Tech
 tags:

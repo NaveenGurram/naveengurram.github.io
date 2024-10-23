@@ -1,6 +1,7 @@
 ---
 title: "Reading from Kafka in Beam streaming job with confluent schema registry"
 last_modified_at: 2024-04-09
+classes: wide
 categories:
   - Beam
 tags:

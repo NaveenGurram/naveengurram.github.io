@@ -1,6 +1,7 @@
 ---
 title: "Maven TestDependency Errors"
 last_modified_at: 2018-09-18
+classes: wide
 categories:
   - Tech
 tags:
