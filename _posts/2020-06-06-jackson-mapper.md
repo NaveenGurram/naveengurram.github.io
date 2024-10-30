@@ -9,7 +9,6 @@ tags:
   - Java
   - Mongodb
 ---
-## Jackson Object Mapper
 
 There are many tales about Jackson Object Mapper and I have seen many gotchas in my career, and every time I get struck and later find the gotch and always wanted to document.
 Here are some of the quirks from last week.

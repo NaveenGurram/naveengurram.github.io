@@ -8,7 +8,6 @@ tags:
   - Python
   - AppStoreApi
 ---
-# Flush after writing a file in Python
 
 We had a requirement to pull data from Apple [AppStoreApi](https://developer.apple.com/documentation/appstoreconnectapi) and api response comes as compressed tab separated file and we coded it in python and quickly deployed to DEV and QA. After initial validation we started noticing number of rows we are getting from same AppStore Environment between DEV and QA is different and   quickly turned out local,DEV and QA are pulling different number of rows.
 

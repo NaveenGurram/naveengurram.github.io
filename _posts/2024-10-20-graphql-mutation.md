@@ -10,8 +10,6 @@ tags:
   - Apache Beam
   - Rest
 ---
-Calling Graphql mutation using WebClient
-========================================
 
 I had a requirement to call a graphql mutation endpoint from java and even with multiple graphql tools, requirement was to use a standard REST client to make the call and there is not much info out there to show the call is made from java or for that matter how the body look like if you were to make the call using any standard http library.
 

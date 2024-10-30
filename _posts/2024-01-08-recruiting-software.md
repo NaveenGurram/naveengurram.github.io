@@ -9,7 +9,6 @@ tags:
   - Linkedin
   - Recruiting
 ---
-# Job Search
 
 ![](/assets/images/jobs.jpg)
 

@@ -8,8 +8,6 @@ tags:
   - SpringBoot
   - Java
 ---
-Augment Spring boot app with external jars
-=============================================
 
 Spring Boot packaging to run as a standalone jar has it advantages, like you can pack all the dependencies into single uber jar and run it on the command line is is refreshing and with the amount of tooling support for build framework is more appealing to use a spring boot framework in the first place.
 

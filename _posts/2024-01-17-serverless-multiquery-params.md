@@ -1,5 +1,5 @@
 ---
-title: "Serverless mimicking AWS Api Gateway"
+title: "Serverless library mimicking AWS Api Gateway for multi query param strings"
 last_modified_at: 2024-01-17
 classes: wide
 categories:
@@ -10,7 +10,6 @@ tags:
   - ApiGateway
   - Swagger
 ---
-# Serverless mimicking AWS Api Gateway for multi query param strings
 
 ![](/assets/images/serverless.png)
 

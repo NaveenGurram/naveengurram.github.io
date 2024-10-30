@@ -8,8 +8,6 @@ tags:
   - Rest Client
   - Jenkins
 ---
-How I used Intellij HttpClient CLI in Jenkins
-=============================================
 
 Like many organizations we are into building scalable microservices in cloud, and we have variety of protocols like REST, Graphql etc using both server and serverless platforms, but one thing that is common is API’s everywhere and calling these API’s in a controlled manner in environments whether it is for a datafix or onboarding isn’t a unique challenge here is one of the way we were addressing it.
 

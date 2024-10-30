@@ -10,7 +10,6 @@ tags:
   - SDK
   - Logging
 ---
-# AWS SDK error logging in typescript
 
 Sometimes small things which you overlook cause most headache and one such error is logging and error in a AWS lambda with NodeJs.
 
