@@ -9,5 +9,3 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Presentation"
-    url: /assets/career/index.html
